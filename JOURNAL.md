@@ -5,3 +5,4 @@ Une ligne par agent et par tour ; les statuts et règles figurent dans le [proto
 | Tour | Date UTC | Agent | Livrable | Statut | Note |
 |---|---|---|---|---|---|
 | 0 | 2026-11-20 | N1 | [Dossier de pilotage : cap](N1_PDG/00_CAP.md), [directives T1](N1_PDG/TOUR_01_DIRECTIVES.md), [tableau de bord](N1_PDG/TABLEAU_DE_BORD.md) | terminé | Démarrage ; protocole actualisé, fichier vide N1 remplacé par son dossier ; N2 puis N3 au tour 1. |
+| 1 | 2026-11-20 | N2 | [Trois idées classées](N2_STRATEGIE/TOUR_01_IDEES.md) | terminé | Classement provisoire : A « Pack Reels » 7,4 (recommandée), B « Veille AO Propreté » 7,2, C « Kit Micro-Entreprise » 7,0 ; dossier N2 initialisé ; pays d'encaissement et compétences du fondateur à confirmer. |
